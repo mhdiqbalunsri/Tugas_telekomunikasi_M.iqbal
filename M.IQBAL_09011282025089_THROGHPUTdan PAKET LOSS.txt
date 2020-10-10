@@ -1,0 +1,16 @@
+NAMA	: M.IQBAL
+NIM	: 09011282025089
+MK	: pengantar telokmunikasi (SK1A)
+
+LINK GITHUB : 
+
+1. Mencari Throughput ( kecepatan rata-rata yang diterima oleh suatu node dalam selang awaktu pengamatan tertentu)
+	Jumlah data yang dikirim (bytes s)/waktu pengiriman(time span)x8
+	Jawab : 18538269/697.027 x 8
+
+	 Thoroughput = 212769.5942911824
+
+2. Mencari paket loss( banyaknya paket yang hilang pada suatu jaringan paket yang disebabkan olwh tabrakan, penuhnya kapasitas jarangan, dan habisnya TTL)
+	Jumlah paket yang dikirim  - jumlah paket yang diterima/ jumlah paket yang dikirim x 100
+	jawab 		: 25596 - 25596/25596 x 100
+	Packet Loss	= 0
